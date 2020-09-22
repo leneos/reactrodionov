@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "382c902c76d7effc47d6",
+    "revision": "c1ba32d6f8dd223bffed",
     "url": "/reactrodionov/static/css/main.5a63b886.chunk.css"
   },
   {
-    "revision": "382c902c76d7effc47d6",
-    "url": "/reactrodionov/static/js/main.f67a4371.chunk.js"
+    "revision": "c1ba32d6f8dd223bffed",
+    "url": "/reactrodionov/static/js/main.a591317c.chunk.js"
   },
   {
-    "revision": "db2163f5237cd324c95e",
-    "url": "/reactrodionov/static/js/runtime~main.72e74c8c.js"
+    "revision": "b3d3f7320fea3f466519",
+    "url": "/reactrodionov/static/js/runtime~main.8f4096f0.js"
   },
   {
-    "revision": "a550a5677ff4cca11c70",
-    "url": "/reactrodionov/static/css/2.a2614d6d.chunk.css"
+    "revision": "6916e51d3b6d6a61c174",
+    "url": "/reactrodionov/static/css/2.c19538fe.chunk.css"
   },
   {
-    "revision": "a550a5677ff4cca11c70",
-    "url": "/reactrodionov/static/js/2.4093fffa.chunk.js"
+    "revision": "6916e51d3b6d6a61c174",
+    "url": "/reactrodionov/static/js/2.fac47e23.chunk.js"
   },
   {
     "revision": "b1da410e1ed526ade57d6b614e896731",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/reactrodionov/static/media/arrowdown.91446b2f.svg"
   },
   {
-    "revision": "2f8e1b2fc8fa5b6ffccc5af9a9d5c035",
+    "revision": "89b92ea3c507759353ff7c9fcf354b4d",
     "url": "/reactrodionov/index.html"
   }
 ];
