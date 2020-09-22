@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reactrodionov/precache-manifest.1cde652c26f950906cbcaed17c5ceb1d.js"
+  "/Aviasales-mainpage-markdown-react/precache-manifest.01e1eb8eac6015d638cf0fce40ff5de2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/reactrodionov/index.html", {
+workbox.routing.registerNavigationRoute("/Aviasales-mainpage-markdown-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
